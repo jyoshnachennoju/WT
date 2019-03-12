@@ -1,0 +1,22 @@
+[
+{
+"firstName":"kavya",
+"lastName":"Reddy",
+"age":23,
+"marks":[
+	{"english":34},
+	{"maths":28}
+],
+"address":"hyd"
+},
+{
+"firstName":"karthik",
+"lastName":"Rao",
+"age":29,
+"marks":[
+	{"english":30},
+	{"maths":38}
+],
+"address":"vizag"
+}
+]
